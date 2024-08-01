@@ -5,4 +5,6 @@
     <string name="your_score">Your Score: %1$d</string>
     <string name="time_left">Time Left: %1$d</string>
     <string name="game_over_message">Time\'s up! Your score was: %1$d</string>
+    <string name="about_title">Timefighter 1.0</string>
+    <string name="about_message">Created by Marvin The Martian</string>
 </resources>
